@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 *.jpg
 *.pdf
+node_modules
